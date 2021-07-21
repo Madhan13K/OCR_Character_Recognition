@@ -1,2 +1,1 @@
-# facial-Detection
-facial detection using streamlit
+# OCR_Charcter-Detection
